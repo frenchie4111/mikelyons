@@ -1,0 +1,50 @@
+.section {
+    margin-bottom: 4px;
+	border:#0e3869 1px solid;
+	box-shadow: 3px 3px 10px #000000;
+}
+.section .section-header {
+    background: url("http://static.wow-heroes.com/beta/images/newsbg01.png") no-repeat scroll 0 0 transparent;
+    height: 25px;	
+	font: 14px/25px "Lucida Sans Unicode","Lucida Grande",sans-serif;
+}
+.section .section-header h3,.section .section-header h2 {
+    color: #FFFFFF;    
+    height: 25px;
+    padding: 0 30px;
+/*    text-transform: uppercase;*/
+	float:left;
+	font-size: 12px;
+	line-height:25px;
+    font-weight: normal;
+}
+.section .section-date {
+	float:right;
+	font-size:12px;
+	height:25px;
+	padding:0 10px;
+	color:#333;	
+}
+.section .section-body2 {
+	background-color:#000d20;
+    padding: 5px 20px 15px;
+	position: relative;
+}
+.section .section-body3 {
+	background-color:#000d20;
+	position: relative;
+}
+.section .section-body4 {
+	background-color:#000d20;
+	position: relative;
+	padding: 5px 20px 10px;
+}
+.section .section-body2 .section-text {
+	float:left;
+	width:550px;	
+}
+.section .section-body2 .section-image {
+	float:right;
+	width:200px;
+	text-align:center;	
+}
